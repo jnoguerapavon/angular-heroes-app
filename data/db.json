@@ -22,7 +22,8 @@
       "publisher": "DC Comics",
       "alter_ego": "J\"onn J\"onzz",
       "first_appearance": "Detective Comics #225",
-      "characters": "Martian Manhunter"
+      "characters": "Martian Manhunter",
+      "alt_img": null
     },
     {
       "id": "dc-robin",
@@ -46,7 +47,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Dinah Drake",
       "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
+      "characters": "Dinah Drake, Dinah Lance",
+      "alt_img": null
     },
     {
       "id": "marvel-spider",

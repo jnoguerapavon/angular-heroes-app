@@ -48,6 +48,12 @@ export class NewPageComponent implements OnInit {
     return hero;
   }
 
+  get Valido() : boolean
+  {
+    const Estado = this.heroForm.valid as boolean;
+    return !Estado;
+  }
+
   ngOnInit(): void {
 
     if ( !this.router.url.includes('edit') ) return;
